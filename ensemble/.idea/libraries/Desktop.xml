@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="Desktop">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Desktop" />
+      <root url="file://$PROJECT_DIR$/../../../../Program Files/Java/fx/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Desktop/src/3DViewer/src/main/java" />
+      <root url="file://$USER_HOME$/Desktop/src/3DViewer/src/test/java" />
+      <root url="file://$USER_HOME$/Desktop/src/Ensemble8/src/app/java" />
+      <root url="file://$USER_HOME$/Desktop/src/Ensemble8/src/compiletime/java" />
+      <root url="file://$USER_HOME$/Desktop/src/Ensemble8/src/generated/java" />
+      <root url="file://$USER_HOME$/Desktop/src/Ensemble8/src/samples/java" />
+      <root url="file://$USER_HOME$/Desktop/src/MandelbrotSet/src" />
+      <root url="file://$USER_HOME$/Desktop/src/Modena/src/main/java" />
+      <root url="file://$USER_HOME$/Desktop" />
+      <root url="file://$PROJECT_DIR$/../../../../Program Files/Java/fx/lib" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../../../../Program Files/Java/fx/lib" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../../Program Files/Java/fx/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$USER_HOME$/Desktop" recursive="false" type="SOURCES" />
+  </library>
+</component>

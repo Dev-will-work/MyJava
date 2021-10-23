@@ -1,0 +1,8 @@
+.button{
+-fx-font-size:16pt;
+-fx-color:red;
+}
+
+.root {
+ -fx-font-size: 15pt;
+ }

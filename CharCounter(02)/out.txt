@@ -1,0 +1,2 @@
+The frame of occurrences of each english character in text:
+"r": 1			
